@@ -66,7 +66,7 @@ This project analyzes and visualizes air quality trends across major Indian citi
 air-quality-india/
 │
 ├── data/                   # Raw and cleaned datasets
-├── notebooks/              # Jupyter Notebooks for analysis & visualization
+├── notebooks/              # Jupyter Notebooks for analysis & visualization(all code and visualisations plot are done in this file- Review 1 is performed in this file only)
 ├── src/                    # Scripts for data preprocessing
 ├── visualizations/         # Output plots and interactive charts
 ├── requirements.txt        # Python dependencies
