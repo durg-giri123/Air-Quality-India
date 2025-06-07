@@ -75,17 +75,18 @@ This project analyzes and visualizes air quality trends across major Indian citi
 
 
 
-📂 Folder Structure
-air-quality-india/
-│
-├── data/                   # Raw and cleaned datasets
-├── notebooks/              # Jupyter Notebooks for analysis & visualization
-├── src/                    # Scripts for data preprocessing
-├── visualizations/         # Output plots and interactive charts
-├── requirements.txt        # Python dependencies
-├── README.md               # Project documentation
-└── .gitignore              # Ignored files
+## 📁 Folder Structure
 
+```bash
+air-quality-india/
+├── data/               # Raw and cleaned datasets
+├── notebooks/          # Jupyter Notebooks for analysis & visualization
+├── src/                # Scripts for data preprocessing
+├── visualizations/     # Output plots and interactive charts
+├── requirements.txt    # Python dependencies
+├── README.md           # Project documentation
+└── .gitignore          # Ignored files
+```
 
 📈 Sample Insights
 ✔️ Delhi and Kolkata frequently recorded hazardous AQI levels during winter.
