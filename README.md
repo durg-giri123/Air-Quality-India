@@ -46,7 +46,7 @@ This project analyzes and visualizes air quality trends across major Indian citi
 ✔️ NumPy	Numerical operations
 ✔️ Matplotlib	Data visualization (static plots)
 ✔️ Seaborn	Statistical visualizations
-✔️ Plotly	Interactive charts and dashboards
+✔️ Plotly	Interactive charts and dashboards 🔥Used to create and host the live AQI chart via GitHub Pages |
 ✔️ Jupyter Notebook	Development & analysis interface
 
 
@@ -138,7 +138,15 @@ All plots are saved in the visualization/ folder.
 🌐 Interactive Chart (Hosted)
 🔗 View Interactive AQI Trend – Delhi 2023
 
-Built using Plotly
+Built using Plotly: 
+## 📈 Hosted Visualization
+
+✅ Click below to interact with the AQI trend over time:
+
+👉 [View Interactive Chart on GitHub Pages](https://durg-giri123.github.io/Air-Quality-India/interactive_aqi_trend.html)
+
+📌 Built using Plotly & hosted via GitHub Pages
+
 
 Hosted via GitHub Pages
 
