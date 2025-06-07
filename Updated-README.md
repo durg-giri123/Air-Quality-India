@@ -111,7 +111,12 @@ jupyter notebook notebooks/air_quality_analysis.ipynb
 
 
 
-Progress of Review 2
+
+
+
+
+
+🚀 Progress of Review 2
 
 ✅ Review 2: Data Visualization & Storytelling
 This phase focuses on visualizing the air quality data to uncover patterns, anomalies, and seasonal variations in pollution levels across Delhi for the year 2023.
