@@ -39,7 +39,7 @@ This project analyzes and visualizes air quality trends across major Indian citi
 
 
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 ✔️ Tool/Library	Purpose
 ✔️ Python	Core programming language
 ✔️ Pandas	Data manipulation and analysis
@@ -96,7 +96,7 @@ air-quality-india/
 
 
 
-🚀 How to Run
+# 🚀 How to Run
 1.Clone this repository:
 git clone https://github.com/durg-giri123/air-quality-india.git
 
@@ -146,14 +146,14 @@ Hover-enabled & zoomable
 Aesthetically themed with dark mode
 
 
-✅ Review 2 Highlights
+# ✅ Review 2 Highlights
 ✔️ Proper chart types selected for each insight
 ✔️ Clean, labeled, and color-tuned visual aesthetics
 ✔️ Interactive element using Plotly for deep-dive experience
 ✔️ README updated with hosted links and chart descriptions
 ✔️ Visualizations saved under visualization/ folder in organized structure
 
-📁 File Structure (Updated)
+# 📁 File Structure (Updated)
 
 Air-Quality-India/
 │
@@ -174,7 +174,7 @@ Air-Quality-India/
 
 
 
-🔭 Future Enhancements
+# 🔭 Future Enhancements
 This project provides a foundational analysis of air quality trends. Potential future enhancements include:
 
 📍 Incorporating more cities to build a comparative pollution profile across India
