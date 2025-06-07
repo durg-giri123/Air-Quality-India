@@ -155,23 +155,23 @@ Aesthetically themed with dark mode
 
 # 📁 File Structure (Updated)
 
+```bash
 Air-Quality-India/
-│
 ├── notebooks/
-│   └── Air-Quality-India.ipynb          # Final Review 2 notebook
+│   └── Air-Quality-India.ipynb         # Final Review 2 notebook
 │
 ├── visualization/
-│   ├── monthly_aqi_trend.png
-│   ├── monthly_aqi_boxplot.png
-│   ├── top10_polluted_days_barplot.png
-│   └── interactive_aqi_trend.html       # Also hosted via GitHub Pages
+│   ├── monthly_aqi_trend.png           # Line chart: AQI trend over months
+│   ├── monthly_aqi_boxplot.png         # Boxplot: AQI distribution by month
+│   ├── top10_polluted_days_barplot.png # Top 10 polluted days barplot
+│   └── interactive_aqi_trend.html      # Interactive Plotly chart (also hosted)
 │
 ├── docs/
-│   └── interactive_aqi_trend.html       # GitHub Pages source
+│   └── interactive_aqi_trend.html      # GitHub Pages source
 │
-├── README.md
-└── requirements.txt
-
+├── README.md                           # Project overview and instructions
+└── requirements.txt                    # Python dependencies
+```
 
 
 # 🔭 Future Enhancements
